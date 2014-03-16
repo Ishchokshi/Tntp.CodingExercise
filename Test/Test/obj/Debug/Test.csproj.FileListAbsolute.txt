@@ -1,0 +1,10 @@
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\Test\bin\Test.dll
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\Test\bin\Test.pdb
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\Test\bin\MongoDB.Bson.dll
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\Test\bin\MongoDB.Driver.dll
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\Test\bin\SQLLAYER.dll
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\Test\bin\TestProject1.dll
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\Test\bin\TestProject1.pdb
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\Test\obj\Debug\Test.dll
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\Test\obj\Debug\Test.pdb

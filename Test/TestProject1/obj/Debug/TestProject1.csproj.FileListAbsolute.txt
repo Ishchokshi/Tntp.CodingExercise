@@ -1,0 +1,5 @@
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\TestProject1\bin\Debug\MongoDB.Bson.dll
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\IChokshi.PATRIARCHNY\Documents\Visual Studio 2010\Projects\Test\TestProject1\obj\Debug\TestProject1.pdb
